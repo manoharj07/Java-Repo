@@ -24,7 +24,9 @@
 					<%String err = (String)request.getAttribute("err"); %>
 					<%if(err!=null) { out.println(err); } %>
 				</font>
-				<a href="index.html">HOME</a>
+		
+		
+				
 
 </body>
 </html>
